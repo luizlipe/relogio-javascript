@@ -25,7 +25,7 @@ Este é um projeto simples de um relógio que exibe a hora atual em formato **an
    ```
 2. **Acesse a pasta do projeto**:
    ```bash
-   cd relogio-analogico-digital
+   cd relogio-javascript
    ```
 3. **Abra o arquivo `index.html` em um navegador**.
 
